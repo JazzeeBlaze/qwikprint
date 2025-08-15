@@ -1,19 +1,18 @@
 {
-    "locations": [
-  {
-    "name": "QwikPrint - Chennai",
-    "latitude": 13.0827,
-    "longitude": 80.2707,
-    "address": "123 Main Street, Chennai",
-    "pincode": "600001"
-  },
-  {
-    "name": "QwikR - Chennai",
-    "latitude": 12.9716,
-    "longitude": 77.5946,
-    "address": "542 MPV Street, Chennai",
-    "pincode": "600001"
-  }
-    ]
+  "locations": [
+    {
+      "name": "QwikPrint Chennai",
+      "address": "123 Anna Nagar, Chennai, TN",
+      "pincode": "600040",
+      "lat": 13.0827,
+      "lng": 80.2707
+    },
+    {
+      "name": "QwikPrint Bangalore",
+      "address": "456 MG Road, Bangalore, KA",
+      "pincode": "560001",
+      "lat": 12.9716,
+      "lng": 77.5946
+    }
+  ]
 }
-
