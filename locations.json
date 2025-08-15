@@ -1,18 +1,16 @@
-{
-    "locations": [
-        {
-            "name": "Shop 1",
-            "address": "123 Main Street, Chennai, Tamil Nadu",
-            "pincode": "600001",
-            "lat": 13.0827,
-            "lng": 80.2707
-        },
-        {
-            "name": "Shop 2",
-            "address": "MG Road, Bengaluru, Karnataka",
-            "pincode": "560001",
-            "lat": 12.9716,
-            "lng": 77.5946
-        }
-    ]
-}
+[
+    {
+        "name": "QwikPrint - Chennai",
+        "pincode": "600001",
+        "lat": 13.0827,
+        "lng": 80.2707,
+        "address": "123 Main Street, Chennai"
+    },
+    {
+        "name": "QwikPrint - Bangalore",
+        "pincode": "560001",
+        "lat": 12.9716,
+        "lng": 77.5946,
+        "address": "45 MG Road, Bangalore"
+    }
+]
