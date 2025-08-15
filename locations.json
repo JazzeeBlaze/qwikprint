@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Location 1",
+    "address": "123 Main Street, New York, NY",
+    "pincode": "10001",
+    "coordinates": [40.748817, -73.985428]
+  },
+  {
+    "name": "Location 2",
+    "address": "456 Market Street, San Francisco, CA",
+    "pincode": "94103",
+    "coordinates": [37.774929, -122.419416]
+  }
+]
