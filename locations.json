@@ -1,14 +1,18 @@
-[
-  {
-    "name": "Location 1",
-    "address": "123 Main Street, New York, NY",
-    "pincode": "10001",
-    "coordinates": [40.748817, -73.985428]
-  },
-  {
-    "name": "Location 2",
-    "address": "456 Market Street, San Francisco, CA",
-    "pincode": "94103",
-    "coordinates": [37.774929, -122.419416]
-  }
-]
+{
+    "locations": [
+        {
+            "name": "Shop 1",
+            "address": "123 Main Street, Chennai, Tamil Nadu",
+            "pincode": "600001",
+            "lat": 13.0827,
+            "lng": 80.2707
+        },
+        {
+            "name": "Shop 2",
+            "address": "MG Road, Bengaluru, Karnataka",
+            "pincode": "560001",
+            "lat": 12.9716,
+            "lng": 77.5946
+        }
+    ]
+}
